@@ -1,0 +1,8 @@
+# Ignore all files with .tmp extension in the root directory
+/*.tmp
+
+# Ignore __pycache__ directories recursively
+__pycache__/
+
+# Ignore .pytest_cache directories recursively
+.pytest_cache/
