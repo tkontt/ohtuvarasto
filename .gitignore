@@ -6,3 +6,9 @@ __pycache__/
 
 # Ignore .pytest_cache directories recursively
 .pytest_cache/
+
+# Ignore htmlcov directory
+htmlcov/
+
+# Ignore .coverage file
+.coverage
